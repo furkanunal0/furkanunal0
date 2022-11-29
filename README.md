@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Furkan Ünal
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Core Java
